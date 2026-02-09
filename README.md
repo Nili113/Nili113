@@ -90,10 +90,6 @@ Personal portfolio showcasing my journey as a developer, featuring clean design 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nili113&show_icons=true&theme=buefy&hide_border=true&bg_color=ffffff&title_color=e68a8a&text_color=5f6368&icon_color=e68a8a)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nili113&layout=compact&theme=buefy&hide_border=true&bg_color=ffffff&title_color=e68a8a&text_color=5f6368)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nili113&theme=buefy-light&hide_border=true&background=ffffff&ring=e68a8a&fire=e68a8a&currStreakLabel=5f6368)
 
 </div>
